@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47d4a6de-9f23-4b6b-8d2d-25fc0c9a002d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coforge/ApiHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +39,14 @@
   "keyToString": {
     "JUnit.ApiHelper.getMethod.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.TestCase.getReq.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/b0276648/Desktop/IQPT/CoforgeAPITest",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.TestCase.getReq">
     <configuration name="ApiHelper.getMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="APITest" />
       <extension name="coverage">
@@ -68,8 +63,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestCase.getReq" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APITest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCase" />
+      <option name="METHOD_NAME" value="getReq" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestCase.getReq" />
         <item itemvalue="JUnit.ApiHelper.getMethod" />
       </list>
     </recent_temporary>
